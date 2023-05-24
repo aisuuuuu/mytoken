@@ -32,7 +32,6 @@ To use the "MyToken" contract, follow these steps:
 
 6. Monitor and track token balances by accessing the `balances` mapping variable. This allows you to view the token balances associated with different addresses.
 
-Please note that additional features, such as access control and error handling, may need to be implemented for production-ready usage of this contract.
 
 ## License
 
